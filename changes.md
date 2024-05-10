@@ -8,5 +8,10 @@
 > Project 2
 >> Reuseable card component
 
-    Here I lean how to create and use reuseable component. also lean pass data through props or destructure the props and use the data.
-    In this project we use Tailwind css for styling
+    Here, I learned how to create and use reusable components. Also, learn to pass data through props, then learn to destructure the props and use the data.
+    In this project, we use Tailwind CSS for styling.
+
+> Project 3
+>> Bg Changer
+
+    Using useState, I am changing the background color on the button click.
