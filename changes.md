@@ -15,3 +15,16 @@
 >> Bg Changer
 
     Using useState, I am changing the background color on the button click.
+
+> Project 4
+>> Random password generator
+
+    This is a random password generator app. Here, I learn how to use the useCallback hook to optimize the code, the useRef hook to get the reference of an element, and the useEffect hook for initial loading. The useEffect hook takes a parameter; whenever the parameters change the state, it automatically rerenders the function.
+
+> Project 5
+>> Currency converter app
+
+    
+
+<!-- https://github.com/fawazahmed0/exchange-api -->
+API: https://latest.currency-api.pages.dev/v1/currencies/usd.json
